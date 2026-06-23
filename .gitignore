@@ -1,0 +1,11 @@
+out
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+blogigator
+
+# Configuration or local environment files
+.env
